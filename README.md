@@ -51,20 +51,20 @@ Let's get some coding. Open your favorite code editor (I’m using VS Code) and 
 If you named the react app as client and the express app as api, you will find two main folders: ```client``` and ```api```.
 
 - Inside the API directory, go to ```bin/www``` and change the port number on line 15 from 3000 to 9000. 
-  - We will run both apps at the same time later on, so doing this will avoid issues. The result should be something like this:
+  - We will run both apps at the same time later on,    so doing this will avoid issues. The result should be something like this:
 
   ```
   var port = normalizePort(process.env.PORT || '9000');
   app.set('port', port);
   ```
 
-  - On api/routes, create a testAPI.js file and paste this code:
+  - On api/routes, create a ```testAPI.js``` file and paste this code:
 
-  ```
+```
   var express = require(“express”);
-var router = express.Router();
+    var router = express.Router();
 
-router.get(“/”, function(req, res, next) {
+    router.get(“/”, function(req, res, next) {
     res.send(“API is working properly”);
 });
 
