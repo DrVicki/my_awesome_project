@@ -1,5 +1,6 @@
+<<<<<<< HEAD:README.md
 
-
+# How To Create A React Frontend, Express Backend, And Connect Them Together
 
 
 It can be confusing when talking about frontend and backend. 
@@ -31,8 +32,7 @@ With browser-support javascript, a large list of front-end JavaScript developmen
   - Angular
   - Vue.js
   - Ember.js
-  - 
-  Polymer.js
+  - Polymer.js
 
 We are choosing Express as our backend technology and React as our front-end technology to build a sample application.
 
@@ -42,6 +42,9 @@ Before continuing this tutorial, I am assuming that you learned JavaScript.
 
 **Are you ready? Let's go!**
 
+=======
+# How To Create A React Frontend, Express Backend, And Connect Them Together
+>>>>>>> 932da207cba46e9bd68b608ae7a209f804b3dc3c:TUTORIAL.md
 
 # Create a React App
 This process is really straightforward.
