@@ -1,7 +1,7 @@
 
 # How To Create A React Frontend, Express Backend, And Connect Them Together
 
-![]()
+![](https://github.com/DrVicki/my_awesome_project/blob/main/FE-BE/FE-BE.001.jpeg)
 
 
 It can be confusing when talking about frontend and backend. 
