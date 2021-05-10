@@ -1,6 +1,8 @@
 
 # How To Create A React Frontend, Express Backend, And Connect Them Together
 
+![]()
+
 
 It can be confusing when talking about frontend and backend. 
 - Here, we will discuss steps for building a frontend using React, a backend using Express.js, and connect them together.
@@ -41,7 +43,7 @@ Before continuing this tutorial, I am assuming that you learned JavaScript.
 
 **Are you ready? Let's go!**
 
-# How To Create A React Frontend, Express Backend, And Connect Them Together
+
 
 # Create a React App
 This process is really straightforward.
@@ -357,6 +359,8 @@ We are all set!
 Now start both your apps (client and API), in two different terminals, using the npm start command.
 
 If you navigate to http://localhost:3000/ in your browser you should find something like this:
+
+![](https://github.com/DrVicki/my_awesome_project/blob/main/API_Client_Running.png)
 
 
 N0; this project won’t do much, but is the start of a Full Stack Application. You can find all the code in this repository that I’ve created for the tutorial.
