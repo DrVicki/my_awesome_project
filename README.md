@@ -1,4 +1,5 @@
 <<<<<<< HEAD:README.md
+<<<<<<< HEAD:README.md
 
 # How To Create A React Frontend, Express Backend, And Connect Them Together
 
@@ -46,6 +47,8 @@ Before continuing this tutorial, I am assuming that you learned JavaScript.
 # How To Create A React Frontend, Express Backend, And Connect Them Together
 >>>>>>> 932da207cba46e9bd68b608ae7a209f804b3dc3c:TUTORIAL.md
 
+=======
+>>>>>>> 7cce249b163cee7863fc9e61e5c1fd80a12b3de3:TUTORIAL.md
 # Create a React App
 This process is really straightforward.
 
