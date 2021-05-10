@@ -1,3 +1,48 @@
+
+
+
+
+It can be confusing when talking about frontend and backend. 
+- Here, we will discuss steps for building a frontend using React, a backend using Express.js, and connect them together.
+
+Express is a popular unopinionated web framework, written in JavaScript and hosted within the Node.js runtime environment. 
+- It is also a modern backend technology and popular among new developers.
+
+React, a simple and powerful library, is gaining huge popularity among developers. 
+- The component architecture is making react an easier way of making complex web application UIs faster. 
+- Also, because the codes are divided into components, maintenance and bug fixes are simpler .
+
+After you learn JavaScript, you can develop both the backend and frontend with it. 
+- This makes things easier to be a full-stack developer.
+
+Other than Express, there is a list of frameworks which helps us in backend development.
+
+- Other backend frameworks:-
+
+  - Next.js
+  - Meteor
+  - Koa
+  - ails
+
+With browser-support javascript, a large list of front-end JavaScript development frameworks/libraries are available.  - P0pular among them are listed below.
+
+- Other front-end frameworks/libraries
+
+  - Angular
+  - Vue.js
+  - Ember.js
+  - 
+  Polymer.js
+
+We are choosing Express as our backend technology and React as our front-end technology to build a sample application.
+
+Before continuing this tutorial, I am assuming that you learned JavaScript.
+
+**Now we are will make a simple React application and connect it to Nodejs/Express backend.**
+
+**Are you ready? Let's go!**
+
+
 # Create a React App
 This process is really straightforward.
 
